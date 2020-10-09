@@ -1,0 +1,15 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "JS to generate PDFs",
+  "main": "src/index.js",
+  "repository": "https://www.github.com/unfoldingword-box3/pdf-generator",
+  "author": "Richard Mahn",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "scripture-resources-rcl": "file:/Users/richmahn/repos/scripture-resources-rcl"
+  }
+}
